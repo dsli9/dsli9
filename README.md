@@ -15,5 +15,5 @@ I'm Derek, a data engineer based in New York City with experience working at the
 ![dbt](https://img.shields.io/badge/-dbt-262A38?style=flat-square&logo=dbt)
 
 
-### Current projects
+### Current Projects
 - https://github.com/dsli9/my-bjj-journey - a personal project used to track my progress in Brazilian jiu-jitsu.
