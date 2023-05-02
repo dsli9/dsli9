@@ -11,6 +11,7 @@ I'm Derek, a data engineer based in New York City with experience working at the
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-262A38?style=flat-square&logo=streamlit)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
 ![dbt](https://img.shields.io/badge/-dbt-262A38?style=flat-square&logo=dbt)
 
