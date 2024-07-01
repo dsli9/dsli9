@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I'm Derek, a data engineer based in New York City with experience working at the intersection of education and technology. My skills are mostly self-taught or learned on the job, and I'm always looking to learn more.
+I'm Derek, a data engineer based in New York City with experience working in education technology and cybersecurity. My skills are mostly self-taught or learned on the job, and I'm always looking to learn more.
 
 ### Tools I Have Experience With
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
