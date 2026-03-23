@@ -17,9 +17,9 @@ I care a lot about keeping data platforms simple, scalable, and genuinely useful
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![dbt](https://img.shields.io/badge/-dbt-262A38?style=flat-square&logo=dbt)
-![Redshift](https://img.shields.io/badge/-Amazon Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Apache Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Redshift](https://img.shields.io/badge/-Amazon%20Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=flate&logo=kubernetes&logoColor=white)
 
 ### Current Projects
 - https://github.com/dsli9/my-bjj-journey - a personal project used to track my progress in Brazilian jiu-jitsu.
